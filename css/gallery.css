@@ -1,0 +1,123 @@
+body, header, h1, nav, div, ul, li, a, img, id, figure, figcaption{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+header{
+    display: flex;
+    justify-content:center;
+}
+
+h1{
+    margin-top: .15em;
+    margin-bottom: .15em;
+    text-align:center; 
+    font-size: 4em;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.clipart{
+    width:2.5em;
+    height:4.6em;
+}
+
+nav{
+    border: 1.5px solid #000000;
+    margin-left: 10em;
+    margin-right: 10em; 
+    box-shadow: 1px 5px 8px #000000;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+li{
+    list-style:none;
+    padding-top: .25em;
+    padding-bottom: .25em;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.30em;
+    color:#000080;
+    font-family: 'Philosopher', sans-serif;
+}
+
+a:hover{
+    color:#4d004d;
+}
+
+a:visited{  
+    color:#333333;
+}
+
+a:visited:hover{  
+    color:#4d004d;
+}
+
+.contain{
+    display: flex;
+    margin-left: 1em;
+    margin-right: 5em; 
+    margin-top:1em;
+}
+
+
+figcaption{
+    text-align: center;
+}
+
+#1a{
+    display: flex;
+}
+
+#1b{
+    display: flex;
+}
+
+#img1{
+    width:28em;
+    height:17em;
+    border:2.5px solid #000000;
+} 
+
+#img2{
+    width:21em;
+    height:14em;
+    margin-left: 2.75em;
+    border:2.5px solid #000000;
+}
+
+#img3{
+    width:23em;
+    height:16em;
+    margin-left: 2.95em;
+    border:2.5px solid #000000;
+}
+
+#img4{
+     width:25em;
+     height:34em;
+     margin-right:.5em;
+     margin-left: .5em;
+     border:2.5px solid #000000;
+}
+
+#img5{
+     width:28em;
+     height:18em;
+     border:2.5px solid #000000;
+     
+}
+/*   I'll work on this later! ag
+footer{
+   align-items:center;
+    
+}
+*/
