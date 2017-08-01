@@ -52,6 +52,7 @@ a{
 a:hover{
     color:#4d004d;
 }
+/*suggestions for other colors for the hover? Possibly #ff0066? */
 
 a:visited{  
     color:#333333;
@@ -71,7 +72,10 @@ a:visited:hover{
 }
 
  
+/*   Insert this footer if we decide to have a "back to the top" id 
 footer{
-   text-align:center;
+text-align:center;
+   
     
 }
+*/

@@ -60,6 +60,7 @@ a:visited{
 a:visited:hover{  
     color:#4d004d;
 }
+/*suggestions for other colors for the hover? Possibly #ff0066? */
 
 article{
 	display: flex;
@@ -90,9 +91,8 @@ p{
     font-family: 'Hind Madurai', sans-serif;
 }
 
-/*   I'll work on this later! ag
+/*   Insert this footer if we decide to have a "back to the top" id 
 footer{
-   align-items:center;
-    
+text-align:center;
 }
 */
